@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstName": "tushar",
+      "lastName": "Chauhan",
+      "displayName": "tush",
+      "email": "t@g.com",
+      "password": "tushar"
+    },
+    {
+      "first_name": "tushar",
+      "last_name": "chauhan",
+      "display_name": "tushar",
+      "email": "a@t.com",
+      "password": "tushar",
+      "id": 2
+    },
+    {
+      "first_name": "Rohan",
+      "last_name": "Gupta",
+      "display_name": "Ani",
+      "email": "a@g.com",
+      "password": "rohan",
+      "id": 3
+    },
+    {
+      "first_name": "Rohan",
+      "last_name": "Gupta",
+      "display_name": "Ani",
+      "email": "a@g.com",
+      "password": "rohan",
+      "id": 4
+    }
+  ]
+}
